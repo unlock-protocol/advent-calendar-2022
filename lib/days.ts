@@ -49,7 +49,7 @@ See you tomorrow!`,
     description:
       "Did you know you can create event tickets and landing pages for your conference, event, or meetup in under five minutes with Unlock Protocol? Set up your event landing page, sell or airdrop tickets as NFTs and via email, and perform check-in with a dedicated QR code. Easy.",
     link: "https://events.unlock-protocol.com",
-    image: "/images/events-share.png",
+    image: "/images/event-share-3.png",
     youtube: "",
   },
   {
