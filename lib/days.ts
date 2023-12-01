@@ -19,7 +19,7 @@ See you tomorrow!`,
     title: "Year in Review",
     description: `Some days we’ll share great stuff from the the Unlock community’s amazing 2023 accomplishments and adventures. For example — did you know there’s an entire showcase of events, subscriptions, memberships, certifications and more that have been built using Unlock Protocol? It’s true!`,
     link: "https://showcase.unlock-protocol.com",
-    image: "/images/showcase-share-2.png",
+    image: "/images/showcase-share-3.png",
     youtube: "",
   },
   {
