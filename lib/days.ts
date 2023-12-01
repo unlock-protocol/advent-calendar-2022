@@ -39,7 +39,7 @@ See you tomorrow!`,
     description:
       `Hey! A little something-something for you today — we’re dropping some USDC to a number of lucky folks today! If you're chosen, we’ll automatically drop it into the wallet you used to get today's NFT. Enjoy! Please see the [official rules](https://unlockprotocol.notion.site/Unlock-Contests-and-Sweepstakes-Standard-Terms-and-Conditions-2023-289658e982794a1f8198d28fe7ec134b?pvs=4) for country and other eligibility.`,
     link: "",
-    image: "/images/scrooge-mcduck.gif",
+    image: "https://media.tenor.com/k_I4uywWFfQAAAAC/picsou-scrooge.gif",
     youtube: "",
   },
   {
