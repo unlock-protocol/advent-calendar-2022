@@ -29,7 +29,7 @@ See you tomorrow!`,
     description:
       "One of the common questions we get asked is how do memberships and subscription tokens work with Unlock Protocol? Here’s a deep dive into how it works!",
     link: "https://twitter.com/UnlockProtocol/status/1720459335875350599",
-    image: "/images/subscription-share-2.jpeg",
+    image: "/images/subscription-share-3.jpeg",
     youtube: "",
   },
   {
